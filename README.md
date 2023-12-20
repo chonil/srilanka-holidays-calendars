@@ -7,7 +7,7 @@ Year 2024 calender updated on 19/12/2023 by Chonil Weerawansa
 | ---- | ---- | ---- |
 | 2022 | 1.0.0 | [Download](https://github.com/mot-srilanka/srilanka-holidays-calendar/archive/refs/tags/v2022-1.0.0.zip)  | 
 | 2023 | 1.0.0 | [Download](https://github.com/mot-srilanka/srilanka-holidays-calendar/archive/refs/tags/v2023-1.0.0.zip)  | 
-| 2024 | 1.0.0 | [Download](https://github.com/chonil/srilanka-holidays-calendars/blob/59bf7feb709426ee3c70d60c3efa44d152be2c1b/Sri%20Lanka%20Holidays%20Calendar%202024%20-%20v1.0.0.ics)  | 
+| 2024 | 1.0.0 | [Download](https://chonil.me/wp-content/uploads/2023/12/Sri-Lanka-Holidays-Calendar-2024-v1.0.0.ics)  | 
 
 ## How-To Use
 
